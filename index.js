@@ -68,3 +68,7 @@ Validator.minLength = function (selector, min){
     }
   }
 }
+
+Validator.isConfirmed = function (selector){
+  return{}
+}
